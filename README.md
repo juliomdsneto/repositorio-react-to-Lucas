@@ -1,2 +1,2 @@
-# repositorio react to Lucas
+# repositorio react do Lucas
  
