@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+
+.navbar-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  color: inherit;
+  font-size: 10px;
+  text-decoration: inherit;
+  text-transform: uppercase;
+  outline: none;
+}
