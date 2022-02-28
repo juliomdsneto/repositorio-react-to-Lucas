@@ -12,3 +12,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+//background-image: "url(/img/background-circles.png)";
