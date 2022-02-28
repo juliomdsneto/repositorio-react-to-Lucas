@@ -68,7 +68,7 @@ const MarketData = () => {
 
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           <label> Pair</label>
-
+          <input type='text' />
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column' }}>
@@ -92,8 +92,8 @@ const MarketData = () => {
         </div>
       </div>
 
-      <div style={{ marginTop: '30px' }}>
-        <label style={{ display: 'flex', justifyContent: 'center', fontSize: '28px' }}> Price Vs Time</label>
+      <div style={{ marginTop: '30px', marginLeft: '5vw' }}>
+        <label style={{ display: 'flex', marginLeft: '15vw', fontSize: '28px' }}> Price Vs Time</label>
         <LineChart
           width={800}
           height={500}
